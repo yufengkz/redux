@@ -19,4 +19,7 @@ src
     │
     └─reducer   //合并reducer
       index.js
+      
+$ yarn start
+$ yarn build
 ```
